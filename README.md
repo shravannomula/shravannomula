@@ -14,13 +14,12 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with **3 years** of hands-on experience building robust, scalable web applications. I'm passionate about clean code, modern technologies, and creating meaningful digital experiences. When I'm not coding, you can find me sharing knowledge on **YouTube**, writing technical articles on **Medium**, or connecting with the community on **Instagram**.
+Full Stack Developer with 3 years of experience building scalable web applications. Passionate about clean code and modern technologies.
 
-- 🎯 Specialized in building high-performance web applications
-- 📝 Content creator on YouTube, Medium, and Instagram
-- 🌱 Constantly learning and exploring new technologies
-- 💡 Problem solver with a passion for elegant solutions
-- 🤝 Open to collaboration and exciting opportunities
+- 🎯 High-performance web applications
+- 🌱 Constantly learning new technologies
+- 💡 Problem solver with elegant solutions
+- 🤝 Open to collaboration
 
 ---
 
@@ -39,7 +38,9 @@ I'm a **Full Stack Developer** with **3 years** of hands-on experience building 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Tools & Platforms
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -52,7 +53,6 @@ I'm a **Full Stack Developer** with **3 years** of hands-on experience building 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shravannomula)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shravannomula)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shravannomula)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravannomula)
 
 </div>
@@ -63,11 +63,11 @@ I'm a **Full Stack Developer** with **3 years** of hands-on experience building 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravannomula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravannomula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shravannomula&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=shravannomula&theme=radical&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shravannomula&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shravannomula&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -77,7 +77,7 @@ I'm a **Full Stack Developer** with **3 years** of hands-on experience building 
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shravannomula&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shravannomula&theme=onedark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -85,13 +85,13 @@ I'm a **Full Stack Developer** with **3 years** of hands-on experience building 
 
 ## 💬 Let's Connect
 
-I'm always interested in collaborating on exciting projects, discussing new ideas, or just having a good conversation about technology. Feel free to reach out!
+I'm always interested in collaborating on exciting projects and discussing technology. Feel free to reach out!
 
 <div align="center">
 
 **Let's build something amazing together!** 🚀
 
-[YouTube](https://www.youtube.com/@shravannomula) • [Medium](https://medium.com/@shravannomula) • [Instagram](https://www.instagram.com/shravannomula) • [LinkedIn](https://www.linkedin.com/in/shravannomula)
+[YouTube](https://www.youtube.com/@shravannomula) • [Medium](https://medium.com/@shravannomula) • [LinkedIn](https://www.linkedin.com/in/shravannomula)
 
 ---
 
