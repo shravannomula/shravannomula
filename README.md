@@ -5,21 +5,31 @@
 # 👋 Hello, I'm Shravan Kumar Nomula
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;3+Years+of+Experience;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Growing)
-  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Multi-Tenant+SaaS+Platforms;Open+for+Freelance+%26+Contract+Work)
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-Full Stack Developer with 3 years of experience building scalable web applications. Passionate about clean code and modern technologies.
+Full Stack Developer with 3 years of experience designing and building scalable web applications. Currently building **EventzNest**, a multi-tenant SaaS platform for the catering industry, from the ground up.
 
-- 🎯 High-performance web applications
+- 🏗️ Building production SaaS products end-to-end: frontend, backend, infrastructure, and tenant isolation
+- 🎯 Focused on clean, maintainable code and reliable delivery
 - 🌱 Constantly learning new technologies
-- 💡 Problem solver with elegant solutions
-- 🤝 Open to collaboration
+- 🤝 Available for freelance and contract engagements — let's talk about your project
+
+---
+
+## 🔭 Featured Project
+
+### EventzNest — Multi-Tenant Catering SaaS
+A multi-tenant SaaS platform for the catering industry, including a public marketing site, tenant-isolated customer portals, role-based access control, and a super-admin console.
+
+- **Stack:** Vue.js, TypeScript, Node.js, JavaScript
+- **Status:** Actively in development
 
 ---
 
@@ -28,6 +38,7 @@ Full Stack Developer with 3 years of experience building scalable web applicatio
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
@@ -59,33 +70,9 @@ Full Stack Developer with 3 years of experience building scalable web applicatio
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravannomula&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shravannomula&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shravannomula&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shravannomula&theme=onedark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 💬 Let's Connect
 
-I'm always interested in collaborating on exciting projects and discussing technology. Feel free to reach out!
+I'm always interested in collaborating on exciting projects and discussing technology. If you're a business or vendor looking for a full stack developer to build or scale your product, feel free to reach out!
 
 <div align="center">
 
